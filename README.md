@@ -1,0 +1,1 @@
+Northwind Trade is a company specializing in shipping various fast-moving consumer goods (FMCG) worldwide. The Shipping Manager lacks visibility into the monthly order processing and shipping volumes. They require a dashboard that allows them to select a specific month and obtain information on the daily number of outstanding orders and their respective shipping destinations.
